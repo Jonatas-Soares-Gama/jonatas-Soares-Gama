@@ -4,7 +4,7 @@ comecei na área por amar resolver problemas e não aceitar quando não são res
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Jonatas-swift" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/swift-15.svg">
-  <img align="center" alt="Rafa-Ts" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/apple.svg">
+
 
   
   ##
