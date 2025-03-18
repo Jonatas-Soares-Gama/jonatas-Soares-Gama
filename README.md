@@ -1,4 +1,4 @@
-## Oiii eu sou Jonatas Gama, desenvolvedor Backend Python
+## Oiii eu sou Jonatas Gama, Engenheiro de Dados e BI
 
 comecei na área por amar resolver problemas e não aceitar quando não são resolvidos. Desde o início de 2023 venho buscando conhecimento pela área da programação.
 
