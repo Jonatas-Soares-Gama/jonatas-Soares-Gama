@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm Jonatas Gama<br><br>I'm a developer passionate about building smart, data-driven solutions and automation tools.<br>Currently, I’m developing MySheets, a SaaS platform built with Django that allows users to create and sell spreadsheets online — focused on simplicity and intelligence. 🚀<br><br>🧠 About Me<br>- 💻 Backend & Data Engineering enthusiast<br>- ⚙️ I enjoy designing efficient REST APIs and ETL data pipelines<br>- 🌍 Passionate about SaaS products, automation, and data insights<br>- 📊 I love turning ideas into real-world solutions that empower users
+Hi there! I'm Jonatas Gama<br><br>I'm a developer passionate about building smart, data-driven solutions and automation tools. 🚀<br><br>🧠 About Me<br>- 💻 Backend & Data Engineering enthusiast<br>- ⚙️ I enjoy designing efficient REST APIs and ETL data pipelines<br>- 🌍 Passionate about SaaS products, automation, and data insights<br>- 📊 I love turning ideas into real-world solutions that empower users
 
 
 ## 🌐 Socials:
